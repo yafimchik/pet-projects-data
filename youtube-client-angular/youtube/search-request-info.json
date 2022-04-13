@@ -1,0 +1,20 @@
+{
+  "params": [
+    {
+      "key": "type",
+      "value": "video"
+    },
+    {
+      "key": "part",
+      "value": "snippet"
+    },
+    {
+      "key": "maxResults",
+      "value": "15"
+    },
+    {
+      "key": "q",
+      "value": "js"
+    }
+  ]
+}

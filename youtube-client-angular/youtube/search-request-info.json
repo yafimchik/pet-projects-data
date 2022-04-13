@@ -4,6 +4,10 @@
     {
       "key": "type",
       "value": "video"
+    },
+    {
+      "key": "maxResults",
+      "value": "15"
     }
   ],
   "queryParam": "q"

@@ -1,8 +1,10 @@
 {
+  "url": "https://www.googleapis.com/youtube/v3/videos",
   "params": [
     {
       "key": "part",
       "value": "snippet,statistics"
     }
-  ]
+  ],
+  "queryParam": "id"
 }
